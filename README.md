@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/soumyaaaa03/DSA-/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/soumyaaaa03/DSA-/tree/master/0520-detect-capital) |
 | [1189-maximum-number-of-balloons](https://github.com/soumyaaaa03/DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/soumyaaaa03/DSA-/tree/master/3612-process-string-with-special-operations-i) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/soumyaaaa03/DSA-/tree/master/0443-string-compression) |
 | [0922-sort-array-by-parity-ii](https://github.com/soumyaaaa03/DSA-/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
 |  |
