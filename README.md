@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soumyaaaa03/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0500-keyboard-row](https://github.com/soumyaaaa03/DSA-/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/soumyaaaa03/DSA-/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/soumyaaaa03/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/soumyaaaa03/DSA-/tree/master/0922-sort-array-by-parity-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/soumyaaaa03/DSA-/tree/master/1732-find-the-highest-altitude) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/soumyaaaa03/DSA-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/soumyaaaa03/DSA-/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
