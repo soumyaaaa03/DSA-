@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/soumyaaaa03/DSA-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/soumyaaaa03/DSA-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/soumyaaaa03/DSA-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -119,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/soumyaaaa03/DSA-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
