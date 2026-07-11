@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/soumyaaaa03/DSA-/tree/master/0520-detect-capital) |
 | [1189-maximum-number-of-balloons](https://github.com/soumyaaaa03/DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/soumyaaaa03/DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2390-removing-stars-from-a-string](https://github.com/soumyaaaa03/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/soumyaaaa03/DSA-/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/soumyaaaa03/DSA-/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/soumyaaaa03/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/soumyaaaa03/DSA-/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/soumyaaaa03/DSA-/tree/master/3614-process-string-with-special-operations-ii) |
 ## Prefix Sum
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/soumyaaaa03/DSA-/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
