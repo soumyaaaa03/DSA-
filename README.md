@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/soumyaaaa03/DSA-/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/soumyaaaa03/DSA-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/soumyaaaa03/DSA-/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/soumyaaaa03/DSA-/tree/master/0735-asteroid-collision) |
 | [0922-sort-array-by-parity-ii](https://github.com/soumyaaaa03/DSA-/tree/master/0922-sort-array-by-parity-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/soumyaaaa03/DSA-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/soumyaaaa03/DSA-/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/soumyaaaa03/DSA-/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/soumyaaaa03/DSA-/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/soumyaaaa03/DSA-/tree/master/3614-process-string-with-special-operations-ii) |
@@ -143,5 +145,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/soumyaaaa03/DSA-/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/soumyaaaa03/DSA-/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
