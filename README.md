@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/soumyaaaa03/DSA-/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/soumyaaaa03/DSA-/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/soumyaaaa03/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/soumyaaaa03/DSA-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/soumyaaaa03/DSA-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/soumyaaaa03/DSA-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/soumyaaaa03/DSA-/tree/master/0500-keyboard-row) |
 | [1189-maximum-number-of-balloons](https://github.com/soumyaaaa03/DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/soumyaaaa03/DSA-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/soumyaaaa03/DSA-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
