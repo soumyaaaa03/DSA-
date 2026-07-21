@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/soumyaaaa03/DSA-/tree/master/0036-valid-sudoku) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/soumyaaaa03/DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soumyaaaa03/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0347-top-k-frequent-elements](https://github.com/soumyaaaa03/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/soumyaaaa03/DSA-/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/soumyaaaa03/DSA-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/soumyaaaa03/DSA-/tree/master/0643-maximum-average-subarray-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/soumyaaaa03/DSA-/tree/master/0016-3sum-closest) |
+| [0347-top-k-frequent-elements](https://github.com/soumyaaaa03/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0922-sort-array-by-parity-ii](https://github.com/soumyaaaa03/DSA-/tree/master/0922-sort-array-by-parity-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/soumyaaaa03/DSA-/tree/master/1833-maximum-ice-cream-bars) |
@@ -75,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/soumyaaaa03/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/soumyaaaa03/DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/soumyaaaa03/DSA-/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/soumyaaaa03/DSA-/tree/master/0036-valid-sudoku) |
+| [0347-top-k-frequent-elements](https://github.com/soumyaaaa03/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/soumyaaaa03/DSA-/tree/master/0500-keyboard-row) |
 | [1189-maximum-number-of-balloons](https://github.com/soumyaaaa03/DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/soumyaaaa03/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/soumyaaaa03/DSA-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -165,4 +170,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/soumyaaaa03/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/soumyaaaa03/DSA-/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/soumyaaaa03/DSA-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/soumyaaaa03/DSA-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
