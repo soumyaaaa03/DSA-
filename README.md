@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/soumyaaaa03/DSA-/tree/master/0365-water-and-jug-problem) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/soumyaaaa03/DSA-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/soumyaaaa03/DSA-/tree/master/0365-water-and-jug-problem) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/soumyaaaa03/DSA-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/soumyaaaa03/DSA-/tree/master/0365-water-and-jug-problem) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/soumyaaaa03/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
