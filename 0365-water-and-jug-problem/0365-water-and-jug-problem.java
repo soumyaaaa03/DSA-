@@ -1,8 +1,19 @@
 class Solution {
     HashSet<String> vis = new HashSet<>();
     public boolean canMeasureWater(int x, int y, int target) {
-        return dfs(0, 0, x, y, target);
+        //return dfs(0, 0, x, y, target);
+        return ((x + y) >= target && target % gcd(x, y) == 0);
     }
+
+    int gcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
+    }
+
     boolean dfs(int a, int b, int x, int y, int target) {
         if (a == target || b == target || a + b == target) {
             return true;
