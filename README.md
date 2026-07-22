@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/soumyaaaa03/DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/soumyaaaa03/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/soumyaaaa03/DSA-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Breadth-First Search
 |  |
@@ -149,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/soumyaaaa03/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/soumyaaaa03/DSA-/tree/master/0222-count-complete-tree-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Stack
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/soumyaaaa03/DSA-/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/soumyaaaa03/DSA-/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
