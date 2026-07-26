@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/soumyaaaa03/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/soumyaaaa03/DSA-/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/soumyaaaa03/DSA-/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/soumyaaaa03/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/soumyaaaa03/DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/soumyaaaa03/DSA-/tree/master/0735-asteroid-collision) |
 | [0922-sort-array-by-parity-ii](https://github.com/soumyaaaa03/DSA-/tree/master/0922-sort-array-by-parity-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/soumyaaaa03/DSA-/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/soumyaaaa03/DSA-/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/soumyaaaa03/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/soumyaaaa03/DSA-/tree/master/0922-sort-array-by-parity-ii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/soumyaaaa03/DSA-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/soumyaaaa03/DSA-/tree/master/0365-water-and-jug-problem) |
+| [0628-maximum-product-of-three-numbers](https://github.com/soumyaaaa03/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/soumyaaaa03/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/soumyaaaa03/DSA-/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
