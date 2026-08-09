@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/soumyaaaa03/DSA-/tree/master/0922-sort-array-by-parity-ii) |
 | [1046-last-stone-weight](https://github.com/soumyaaaa03/DSA-/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/soumyaaaa03/DSA-/tree/master/1049-last-stone-weight-ii) |
+| [1140-stone-game-ii](https://github.com/soumyaaaa03/DSA-/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/soumyaaaa03/DSA-/tree/master/1207-unique-number-of-occurrences) |
 | [1406-stone-game-iii](https://github.com/soumyaaaa03/DSA-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumyaaaa03/DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/soumyaaaa03/DSA-/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/soumyaaaa03/DSA-/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/soumyaaaa03/DSA-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/soumyaaaa03/DSA-/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/soumyaaaa03/DSA-/tree/master/1049-last-stone-weight-ii) |
+| [1140-stone-game-ii](https://github.com/soumyaaaa03/DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumyaaaa03/DSA-/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/soumyaaaa03/DSA-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Tree
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/soumyaaaa03/DSA-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/soumyaaaa03/DSA-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/soumyaaaa03/DSA-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/soumyaaaa03/DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumyaaaa03/DSA-/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/soumyaaaa03/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumyaaaa03/DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/soumyaaaa03/DSA-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/soumyaaaa03/DSA-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/soumyaaaa03/DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumyaaaa03/DSA-/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -261,11 +266,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/soumyaaaa03/DSA-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/soumyaaaa03/DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumyaaaa03/DSA-/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/soumyaaaa03/DSA-/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/soumyaaaa03/DSA-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/soumyaaaa03/DSA-/tree/master/1406-stone-game-iii) |
 ## Enumeration
 |  |
