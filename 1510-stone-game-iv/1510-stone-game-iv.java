@@ -1,7 +1,8 @@
 class Solution {
     public boolean winnerSquareGame(int n) {
-        Boolean[] dp = new Boolean[n + 1];
-        return helper(n, dp);
+        // Boolean[] dp = new Boolean[n + 1];
+        // return helper(n, dp);
+        return tab(n);
     }
     boolean helper(int n, Boolean[] dp) {
         if (n == 0) {
@@ -15,5 +16,19 @@ class Solution {
             }
         }
         return dp[n] = false;
+    }
+
+    boolean tab(int n) {
+        boolean[] dp = new boolean[n + 1];
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j * j <= i; j++) {
+                int sq = j * j;
+                if (!dp[i - sq]) {
+                    dp[i] = true;
+                    break;
+                }
+            }
+        }
+        return dp[n];
     }
 }
