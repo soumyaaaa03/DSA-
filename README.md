@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/soumyaaaa03/DSA-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2293-min-max-game](https://github.com/soumyaaaa03/DSA-/tree/master/2293-min-max-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/2352-equal-row-and-column-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumyaaaa03/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/soumyaaaa03/DSA-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/soumyaaaa03/DSA-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/soumyaaaa03/DSA-/tree/master/3731-find-missing-elements) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/soumyaaaa03/DSA-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/soumyaaaa03/DSA-/tree/master/1833-maximum-ice-cream-bars) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumyaaaa03/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumyaaaa03/DSA-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/soumyaaaa03/DSA-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/soumyaaaa03/DSA-/tree/master/3536-maximum-product-of-two-digits) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/soumyaaaa03/DSA-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/2352-equal-row-and-column-pairs) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumyaaaa03/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumyaaaa03/DSA-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/soumyaaaa03/DSA-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/soumyaaaa03/DSA-/tree/master/3731-find-missing-elements) |
