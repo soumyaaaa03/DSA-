@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/soumyaaaa03/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/soumyaaaa03/DSA-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2293-min-max-game](https://github.com/soumyaaaa03/DSA-/tree/master/2293-min-max-game) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/soumyaaaa03/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2352-equal-row-and-column-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/2352-equal-row-and-column-pairs) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/soumyaaaa03/DSA-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/soumyaaaa03/DSA-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/soumyaaaa03/DSA-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/soumyaaaa03/DSA-/tree/master/1833-maximum-ice-cream-bars) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/soumyaaaa03/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/soumyaaaa03/DSA-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumyaaaa03/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumyaaaa03/DSA-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/soumyaaaa03/DSA-/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/soumyaaaa03/DSA-/tree/master/0605-can-place-flowers) |
 | [1833-maximum-ice-cream-bars](https://github.com/soumyaaaa03/DSA-/tree/master/1833-maximum-ice-cream-bars) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/soumyaaaa03/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/soumyaaaa03/DSA-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumyaaaa03/DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/soumyaaaa03/DSA-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/soumyaaaa03/DSA-/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/soumyaaaa03/DSA-/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/soumyaaaa03/DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/soumyaaaa03/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/soumyaaaa03/DSA-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
