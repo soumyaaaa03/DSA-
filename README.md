@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/soumyaaaa03/DSA-/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/soumyaaaa03/DSA-/tree/master/0605-can-place-flowers) |
 | [1833-maximum-ice-cream-bars](https://github.com/soumyaaaa03/DSA-/tree/master/1833-maximum-ice-cream-bars) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/soumyaaaa03/DSA-/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/soumyaaaa03/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/soumyaaaa03/DSA-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumyaaaa03/DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/soumyaaaa03/DSA-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/soumyaaaa03/DSA-/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/soumyaaaa03/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/soumyaaaa03/DSA-/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumyaaaa03/DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/soumyaaaa03/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/soumyaaaa03/DSA-/tree/master/3536-maximum-product-of-two-digits) |
