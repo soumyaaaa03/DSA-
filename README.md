@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/soumyaaaa03/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/soumyaaaa03/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/soumyaaaa03/DSA-/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/soumyaaaa03/DSA-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2293-min-max-game](https://github.com/soumyaaaa03/DSA-/tree/master/2293-min-max-game) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/soumyaaaa03/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2352-equal-row-and-column-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/2352-equal-row-and-column-pairs) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/soumyaaaa03/DSA-/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/soumyaaaa03/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/soumyaaaa03/DSA-/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/soumyaaaa03/DSA-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/soumyaaaa03/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/soumyaaaa03/DSA-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/soumyaaaa03/DSA-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/soumyaaaa03/DSA-/tree/master/0735-asteroid-collision) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/soumyaaaa03/DSA-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2390-removing-stars-from-a-string](https://github.com/soumyaaaa03/DSA-/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
