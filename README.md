@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/soumyaaaa03/DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/soumyaaaa03/DSA-/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/soumyaaaa03/DSA-/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/soumyaaaa03/DSA-/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/soumyaaaa03/DSA-/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/soumyaaaa03/DSA-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/soumyaaaa03/DSA-/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
 |  |
 | ------- |
