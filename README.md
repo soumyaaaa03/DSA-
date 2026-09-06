@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/soumyaaaa03/DSA-/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/soumyaaaa03/DSA-/tree/master/0139-word-break) |
 | [0443-string-compression](https://github.com/soumyaaaa03/DSA-/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/soumyaaaa03/DSA-/tree/master/0500-keyboard-row) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/soumyaaaa03/DSA-/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/soumyaaaa03/DSA-/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/soumyaaaa03/DSA-/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/soumyaaaa03/DSA-/tree/master/0877-stone-game) |
