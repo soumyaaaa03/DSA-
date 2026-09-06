@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/soumyaaaa03/DSA-/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/soumyaaaa03/DSA-/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/soumyaaaa03/DSA-/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/soumyaaaa03/DSA-/tree/master/0486-predict-the-winner) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/soumyaaaa03/DSA-/tree/master/0070-climbing-stairs) |
 | [0365-water-and-jug-problem](https://github.com/soumyaaaa03/DSA-/tree/master/0365-water-and-jug-problem) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/soumyaaaa03/DSA-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/soumyaaaa03/DSA-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/soumyaaaa03/DSA-/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/soumyaaaa03/DSA-/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/soumyaaaa03/DSA-/tree/master/0509-fibonacci-number) |
 ## Brute-Force Search
