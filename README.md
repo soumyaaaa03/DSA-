@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/soumyaaaa03/DSA-/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/soumyaaaa03/DSA-/tree/master/0877-stone-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/soumyaaaa03/DSA-/tree/master/0922-sort-array-by-parity-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/soumyaaaa03/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1046-last-stone-weight](https://github.com/soumyaaaa03/DSA-/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/soumyaaaa03/DSA-/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/soumyaaaa03/DSA-/tree/master/1140-stone-game-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/soumyaaaa03/DSA-/tree/master/0036-valid-sudoku) |
+| [0931-minimum-falling-path-sum](https://github.com/soumyaaaa03/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/soumyaaaa03/DSA-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/2352-equal-row-and-column-pairs) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/soumyaaaa03/DSA-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/soumyaaaa03/DSA-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/soumyaaaa03/DSA-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/soumyaaaa03/DSA-/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/soumyaaaa03/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/soumyaaaa03/DSA-/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/soumyaaaa03/DSA-/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/soumyaaaa03/DSA-/tree/master/1140-stone-game-ii) |
