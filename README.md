@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/soumyaaaa03/DSA-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/soumyaaaa03/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/soumyaaaa03/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/soumyaaaa03/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/soumyaaaa03/DSA-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/soumyaaaa03/DSA-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2293-min-max-game](https://github.com/soumyaaaa03/DSA-/tree/master/2293-min-max-game) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/soumyaaaa03/DSA-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/soumyaaaa03/DSA-/tree/master/1833-maximum-ice-cream-bars) |
+| [2094-finding-3-digit-even-numbers](https://github.com/soumyaaaa03/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/soumyaaaa03/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/soumyaaaa03/DSA-/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/soumyaaaa03/DSA-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/soumyaaaa03/DSA-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/soumyaaaa03/DSA-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2094-finding-3-digit-even-numbers](https://github.com/soumyaaaa03/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/soumyaaaa03/DSA-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/2352-equal-row-and-column-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/soumyaaaa03/DSA-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/soumyaaaa03/DSA-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/soumyaaaa03/DSA-/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/soumyaaaa03/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/soumyaaaa03/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Minimax
 |  |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/soumyaaaa03/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/soumyaaaa03/DSA-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/soumyaaaa03/DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Nim Game
