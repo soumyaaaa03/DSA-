@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/soumyaaaa03/DSA-/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/soumyaaaa03/DSA-/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/soumyaaaa03/DSA-/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/soumyaaaa03/DSA-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/soumyaaaa03/DSA-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/soumyaaaa03/DSA-/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/soumyaaaa03/DSA-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -407,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/soumyaaaa03/DSA-/tree/master/0387-first-unique-character-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/soumyaaaa03/DSA-/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
