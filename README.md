@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/soumyaaaa03/DSA-/tree/master/0365-water-and-jug-problem) |
+| [0841-keys-and-rooms](https://github.com/soumyaaaa03/DSA-/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/soumyaaaa03/DSA-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/soumyaaaa03/DSA-/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/soumyaaaa03/DSA-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/soumyaaaa03/DSA-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/soumyaaaa03/DSA-/tree/master/3310-remove-methods-from-project) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/soumyaaaa03/DSA-/tree/master/0365-water-and-jug-problem) |
+| [0841-keys-and-rooms](https://github.com/soumyaaaa03/DSA-/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/soumyaaaa03/DSA-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/soumyaaaa03/DSA-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
