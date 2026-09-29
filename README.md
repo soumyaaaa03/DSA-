@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/soumyaaaa03/DSA-/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/soumyaaaa03/DSA-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/soumyaaaa03/DSA-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soumyaaaa03/DSA-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2293-min-max-game](https://github.com/soumyaaaa03/DSA-/tree/master/2293-min-max-game) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/soumyaaaa03/DSA-/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2352-equal-row-and-column-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/2352-equal-row-and-column-pairs) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/soumyaaaa03/DSA-/tree/master/0036-valid-sudoku) |
 | [0931-minimum-falling-path-sum](https://github.com/soumyaaaa03/DSA-/tree/master/0931-minimum-falling-path-sum) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/soumyaaaa03/DSA-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soumyaaaa03/DSA-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/soumyaaaa03/DSA-/tree/master/2352-equal-row-and-column-pairs) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/soumyaaaa03/DSA-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/soumyaaaa03/DSA-/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/soumyaaaa03/DSA-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/soumyaaaa03/DSA-/tree/master/1510-stone-game-iv) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soumyaaaa03/DSA-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
 |  |
 | ------- |
@@ -427,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/soumyaaaa03/DSA-/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soumyaaaa03/DSA-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
