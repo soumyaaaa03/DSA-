@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soumyaaaa03/DSA-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/soumyaaaa03/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/soumyaaaa03/DSA-/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/soumyaaaa03/DSA-/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/soumyaaaa03/DSA-/tree/master/0387-first-unique-character-in-a-string) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/soumyaaaa03/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/soumyaaaa03/DSA-/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/soumyaaaa03/DSA-/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/soumyaaaa03/DSA-/tree/master/0139-word-break) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soumyaaaa03/DSA-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/soumyaaaa03/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/soumyaaaa03/DSA-/tree/master/0735-asteroid-collision) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/soumyaaaa03/DSA-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/soumyaaaa03/DSA-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soumyaaaa03/DSA-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/soumyaaaa03/DSA-/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/soumyaaaa03/DSA-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soumyaaaa03/DSA-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
