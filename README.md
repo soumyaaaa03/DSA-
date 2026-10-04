@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/soumyaaaa03/DSA-/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/soumyaaaa03/DSA-/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/soumyaaaa03/DSA-/tree/master/0551-student-attendance-record-i) |
+| [0678-valid-parenthesis-string](https://github.com/soumyaaaa03/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/soumyaaaa03/DSA-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/soumyaaaa03/DSA-/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/soumyaaaa03/DSA-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/soumyaaaa03/DSA-/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/soumyaaaa03/DSA-/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/soumyaaaa03/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/soumyaaaa03/DSA-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1833-maximum-ice-cream-bars](https://github.com/soumyaaaa03/DSA-/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/soumyaaaa03/DSA-/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/soumyaaaa03/DSA-/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/soumyaaaa03/DSA-/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/soumyaaaa03/DSA-/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/soumyaaaa03/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/soumyaaaa03/DSA-/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/soumyaaaa03/DSA-/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/soumyaaaa03/DSA-/tree/master/0931-minimum-falling-path-sum) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/soumyaaaa03/DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/soumyaaaa03/DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/soumyaaaa03/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/soumyaaaa03/DSA-/tree/master/0735-asteroid-collision) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/soumyaaaa03/DSA-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/soumyaaaa03/DSA-/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/soumyaaaa03/DSA-/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/soumyaaaa03/DSA-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/soumyaaaa03/DSA-/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/soumyaaaa03/DSA-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/soumyaaaa03/DSA-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
